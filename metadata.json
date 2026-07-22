@@ -1,0 +1,6 @@
+{
+  "name": "DEFEB - Emergency Medicine & Clinical Excellence Academy",
+  "description": "India's Premier Emergency Medicine & Clinical Excellence Academy featuring 3D Anatomy, Simulation Lab, PGDEMS Curriculum, Career Calculator, and Interactive Clinical Training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
